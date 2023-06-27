@@ -1,0 +1,20 @@
+Nombre
+¿Que es DevOps?
+¿Que es CI/CD?
+¿Cuál es el uso de Shell Scripting?
+¿Qué uso tiene Docker?
+¿Qué es un contenedor?
+¿Para qué sirve Kubernetes?
+¿Para que sirve GIT?
+¿Escriba 3 comandos de git y descríbalos?
+¿Que función cumple un Job en Jenkins?
+
+1> Persona o grupo que se encarga de desplegar un programa
+2> Integracion continua / Despliegue continuo
+3> Ejecutar instrucciones en consola 
+4> Para cargar y compartir aplicaciones
+5> Lugar donde esta cargada la aplicacion desarrollada
+6> Es el administrador de los contenedores
+7> Gestionamiento de versiones
+8> push envia los cambios realizados, pull descarga el codigo con los cambios hechos, clone clona un repositorio
+9> ?
