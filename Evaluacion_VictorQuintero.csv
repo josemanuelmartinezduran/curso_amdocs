@@ -1,0 +1,15 @@
+Nombre
+¿Que es DevOps?
+Es un conjunto de metodologías, tecnologías y prácticas que nos permiten controlar y mejorar el ciclo de vida de software desde
+su nacimiento a su entrega en producción y que se basa en romper las barreras entre los equipos involucrados en crear
+el software (Dev) y los de cuidar la correcta operación del mismo (Ops)
+¿Que es CI/CD?
+CI - Continuous Integration 
+CD - Continous Delivery
+¿Cuál es el uso de Shell Scripting?
+¿Qué uso tiene Docker?
+¿Qué es un contenedor?
+¿Para qué sirve Kubernetes?
+¿Para que sirve GIT?
+¿Escriba 3 comandos de git y descríbalos?
+¿Que función cumple un Job en Jenkins?
