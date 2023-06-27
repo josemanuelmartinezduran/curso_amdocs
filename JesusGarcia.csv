@@ -1,0 +1,19 @@
+Nombre
+¿Que es DevOps?
+-Es toda una cultura y manera de pensar, destinado al mantenimiento y la integracion de proyectos de manera confiable
+¿Que es CI/CD?
+- Continuos Integration / Continuos Delivery
+¿Cuál es el uso de Shell Scripting?
+- Facilitar la vida dentro del uso de terminal/servidores
+¿Qué uso tiene Docker?
+- Crear contenedores que facilitan el deploy
+¿Qué es un contenedor?
+- Elementos que definen una parte de un sistema para su facil escalabilidad etc
+¿Para qué sirve Kubernetes?
+- Para mejorar la escalabilidad y deployment con base a docker
+¿Para que sirve GIT?
+- Mantener el codigo seguro y rapidamente actualizable para todo un equipo
+¿Escriba 3 comandos de git y descríbalos?
+- git clone commit push
+¿Que función cumple un Job en Jenkins?
+- Ejecutar algun proceso automaticamente
