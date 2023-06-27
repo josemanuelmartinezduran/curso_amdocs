@@ -1,0 +1,22 @@
+Nombre
+Rogelio Enguilo
+¿Que es DevOps?
+La automatizacion de procesos de desarrollo para entregar software de calidad.
+¿Que es CI/CD?
+Continuos Integration / Continuos Delivering 
+¿Cuál es el uso de Shell Scripting?
+Interpretar / correr comandos o script de bash
+¿Qué uso tiene Docker?
+Administrar imagenes de contenedores
+¿Qué es un contenedor?
+Una imagen  que contiene lo necesario para la ejecucion de algun proceso
+¿Para qué sirve Kubernetes?
+Orquestador de contenedores
+¿Para que sirve GIT?
+Versionamiento
+¿Escriba 3 comandos de git y descríbalos?
+git init #Crear un repositorio
+git add #Agregar archivos al versionamiento
+git commit #Integrar cambios
+¿Que función cumple un Job en Jenkins?
+Automatizar flujos
