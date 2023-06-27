@@ -1,0 +1,10 @@
+Nombre: Juan Antonio Astorga Navarrete
+¿Que es DevOps? Metodologia que permite mantener de softwa ordena el software y sus liberaciones en produccion
+¿Que es CI/CD? Continuos Integration / Continuos Developing
+¿Cuál es el uso de Shell Scripting? Realizar tareas con codigo que pudieran ser repetitivas
+¿Qué uso tiene Docker? Crear contenedores con codigo necesario para su funcionamiento en produccion
+¿Qué es un contenedor? Es un espacion con todos los archivos y librerias de tu codigo
+¿Para qué sirve Kubernetes? 
+¿Para que sirve GIT? PAra versionar tu codigo
+¿Escriba 3 comandos de git y descríbalos? git init / git remote add / git commit
+¿Que función cumple un Job en Jenkins? Atraves de Jenkins se permite llamar los Jobs y ejecutar su funcion
