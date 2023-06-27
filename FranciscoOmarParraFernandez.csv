@@ -1,0 +1,32 @@
+Nombre
+¿Que es DevOps?
+Se puede decir que es como una idea de una cobinacion de practicas y herramientas para desplegar aplicaciones y servicios.
+
+¿Que es CI/CD?
+Es un proceso que nos ayuda a distribuir aplicaciones por medio de automatizacion.
+
+¿Cuál es el uso de Shell Scripting?
+Auomatiza secuencias repetitivas que se pueden hacer en un dia a dia.
+
+¿Qué uso tiene Docker?
+Son contenedores para obtener imagenes pequenias y sea mas facil empezar a trabajar en algun proyecto
+
+¿Qué es un contenedor?
+Es el encargado de empaquetar codigo y las dependencias de una aplicacion.
+
+¿Para qué sirve Kubernetes?
+ayuda a compilar apps basadas en microservicios y nativas en la nube
+
+¿Para que sirve GIT?
+Para tener un control sobre las versiones de nuestra app o programa.
+
+¿Escriba 3 comandos de git y descríbalos?
+git add . -> agrega todos los nuevos cambios a un area de staging
+git commit -m "..." -> agrega un nuevo comentario a nuestros  cambios listos para subir
+git diff -> checa diferencias entre comentarios
+
+¿Que función cumple un Job en Jenkins?
+checa que este bien configurado el trabajo que va al sistema
+
+
+Saludos, muy buenna platica
