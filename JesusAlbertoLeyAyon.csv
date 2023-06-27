@@ -1,0 +1,10 @@
+Nombre
+¿Que es DevOps?DevOps es una metodologia a seguir para evitar bugs, de almacenar versionado de codigo y desplegar ejecutables
+¿Que es CI/CD? Continuous Integration Continuous Deployment
+¿Cuál es el uso de Shell Scripting? Tiene como objetivo ejecutar instrucciones de codigo una tras otra
+¿Qué uso tiene Docker?Docker es una herramienta para describir configuracion para el codigo y poder moverlos y ejecutarlos en otro lado
+¿Qué es un contenedor? un contenedor es una configuracion para poder ejecutar codigo
+¿Para qué sirve Kubernetes?Kubernetes es para describir la configuracion de ambientes con las herramientas que van a tener y como se van a ejecutar
+¿Para que sirve GIT? es un sistema de control de versiones
+¿Escriba 3 comandos de git y descríbalos?git add: es para añadir los archivos a stage, git commit: hace un commit de los archivos que estan en stage, git push origin master: sube todo desde origin a master
+¿Que función cumple un Job en Jenkins?
