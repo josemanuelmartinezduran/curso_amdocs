@@ -1,0 +1,22 @@
+Nombre
+José Misael Urquieta Estrada
+¿Que es DevOps?
+Es un metodo donde se usan practicas y herramientas que ayudan el dia a dia de los desarrolladores para poder resolver cualquier problema que se encuentre el producto al que estan a cargo.
+¿Que es CI/CD?
+Son herramientas que usan 'pipelines', que son utilidades que ayudan principalmente a la automatizacion de los procesos que vienen despues de la codificacion, la compilacion, chequeos, deployments, etc..
+¿Cuál es el uso de Shell Scripting?
+Interpretar comandos y traducir los para que el Sistema Operativo pueda ejecutar un programa o hacer cierta accion.
+¿Qué uso tiene Docker?
+El uso, creacion y manejo de contenedores
+¿Qué es un contenedor?
+Son programas que se aislan completamente del sistema operativo, asi ejecutando su propio OS dentro del sistema y estos a cambio pueden correr otros programas. Asi se puede correr el contenedor en otro equipo y sera ejecutado en el mismo sistema dentro del contenedor con el mismo programa.
+¿Para qué sirve Kubernetes?
+Para manajear y administrar los contenedores
+¿Para que sirve GIT?
+Para poder versionar y controlar las ediciones a un archivo, en otras palabras controla y te muestra la vida de los archivos que formen parte del proyecto.
+¿Escriba 3 comandos de git y descríbalos?
+git init -> Crea un repositiorio nuevo en blanco
+git clone <url> -> De un repositorio ya existente lo descarga y lo pone en tu equipo
+git add <file> -> Añade el archivo ya sea nuevo o existente a los cambios que se van a tomer para el siguiente commit
+¿Que función cumple un Job en Jenkins?
+Ejecutar una seria de acciones para completar una tarea especifica.

@@ -1,0 +1,29 @@
+Nombre
+¿Que es DevOps?
+Es una integracion de varias tecnologias para optimizar los recursos.
+
+¿Que es CI/CD?
+Continues integration 
+
+¿Cuál es el uso de Shell Scripting?
+Inicializar el script con la shell asignada, ya que si no cuenta con ella los usuarios no owners no podran ejecutarla.
+
+¿Qué uso tiene Docker?
+Son contenedores donde se pueden deployar applicaciones. Esta se sube a un repo y su distribucion es mas facil de manejar.
+
+¿Qué es un contenedor?
+Comparte el kernel de la maquina donde se encuentra 
+
+¿Para qué sirve Kubernetes?
+Es un orquestador de contenedores 
+
+¿Para que sirve GIT?
+Es una herramienta que nos sirve para uardar nuestro codigo donde se estaran presentando las actualizaciones que ha tenido en donde mas usuarios pueden acceder al repo.
+
+¿Escriba 3 comandos de git y descríbalos?
+git remote add <repo_name> <url>
+git push master
+git commit -m <name>
+
+¿Que función cumple un Job en Jenkins?
+Integrar varias herramientas por ejemplo ansible, puppet en donde se crean tareas y se integran en un job para implementar un cambio utilizando todas por pasos.
