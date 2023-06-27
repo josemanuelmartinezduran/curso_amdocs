@@ -1,0 +1,29 @@
+Nombre
+¿Que es DevOps?
+Metodologi para la configiracion y orquestracion de ambientes de desarrollo
+
+¿Que es CI/CD?
+Continious delivery continious integration 
+
+¿Cuál es el uso de Shell Scripting?
+Automatizacion de tareas
+
+¿Qué uso tiene Docker?
+Creacion y gestion de contenedores
+
+¿Qué es un contenedor?
+Una imagen que integra lo necesario para el trabajo en equipo
+
+¿Para qué sirve Kubernetes?
+Es un orquestrador
+
+¿Para que sirve GIT?
+Controlador de versiones
+
+¿Escriba 3 comandos de git y descríbalos?
+commit: crea un commit con comentario
+push: sube los cambios
+status: checa el estatus actual de una branch en un repositorio
+
+¿Que función cumple un Job en Jenkins?
+Realizar una tarea especifica
