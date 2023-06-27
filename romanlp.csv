@@ -1,0 +1,22 @@
+Nombre
+Roman Leon Portugal
+¿Que es DevOps?
+Es un concepto que nacio de la integracion entre las tareas de los desarrolladores y de operaciones para resolver de una manera mas efectiva el flujo
+¿Que es CI/CD?
+Continues Integration/Continues Delivery
+¿Cuál es el uso de Shell Scripting?
+Es un script/programa desarrollado en shell
+¿Qué uso tiene Docker?
+Es una herramienta que nos ayuda en la creacion de contenedores y su manejo
+¿Qué es un contenedor?
+La intencion es tener un aplicativo utilizando los recursos mas basicos de la maquina
+¿Para qué sirve Kubernetes?
+Es un orquestador de contenedores
+¿Para que sirve GIT?
+Es una herramienta de control de versiones
+¿Escriba 3 comandos de git y descríbalos?
+git init
+git clone
+git add
+¿Que función cumple un Job en Jenkins?
+Es un orquestador de tareas que sirve para programar y ejecutar multiples tareas/pipelines/jobs
