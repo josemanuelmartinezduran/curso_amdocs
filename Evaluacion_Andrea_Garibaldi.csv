@@ -1,0 +1,10 @@
+Nombre
+¿Que es DevOps? Metodología de desarrollo de software que une a los equipos de operacion y development
+¿Que es CI/CD? Continiuos Delivery / Continious Integration
+¿Cuál es el uso de Shell Scripting? Ejecutar comandos de manera automática sobre un script
+¿Qué uso tiene Docker? Contenedores para montaje de aplicaciones
+¿Qué es un contenedor? Imagen de sistema en donde se ejecutará nuestra aplicación
+¿Para qué sirve Kubernetes? Orquestar contenedores
+¿Para que sirve GIT? Control de versiones
+¿Escriba 3 comandos de git y descríbalos? git commit, git push, git clone
+¿Que función cumple un Job en Jenkins? Ejecuta cierta tarea asignada durante el build de la aplicación
