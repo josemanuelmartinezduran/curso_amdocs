@@ -1,0 +1,21 @@
+Nombre Omar Munoz Morales
+¿Que es DevOps? 
+Es la integracion entre desarrollo y operationes (deployments)
+¿Que es CI/CD?
+Continuos Integration y Continues Delivery, se refiere a la automatizacion realizada para el desarrollo y despliegue de codigo en servidores
+¿Cuál es el uso de Shell Scripting?
+Es utilizado para la ejecucion de tareas en ambientes Linux
+¿Qué uso tiene Docker?
+Sistema de contenedores que permite la ejecucion de Sistemas Operativos de manera que si fueran programas, pero ejecutados como procesos
+¿Qué es un contenedor?
+Un Contenedor es un programa que ejecuta ordenes como si fuera un sistema operativo nativo dentro de otro SO
+¿Para qué sirve Kubernetes?
+Para gestionar contenedores
+¿Para que sirve GIT?
+Es utilizado para versionar codigo fuente
+¿Escriba 3 comandos de git y descríbalos?
+git clone --> Copia un repositorio de manera local
+git push --> Sube codigo a otro repositorio
+git add --> Agrega codigo
+¿Que función cumple un Job en Jenkins?
+Ejecuta una orden
