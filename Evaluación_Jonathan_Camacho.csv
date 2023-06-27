@@ -1,0 +1,10 @@
+Nombre Jonathan Camacho	
+¿Que es DevOps? Una forma de trabajar o una metodologia de trabajo. 
+¿Que es CI/CD? Continue Integration Y Continue Delivery	
+¿Cuál es el uso de Shell Scripting? Automatizar comandos ejecutables 
+¿Qué uso tiene Docker? Creador de Contenedores y Manejo de ellos 
+¿Qué es un contenedor? Un contenedor es un fragmento de applicaciones y configuraciones establecidas en una imagen para un manejo constante de ellas y asi mejorar tiempos de instalacion 
+¿Para qué sirve Kubernetes? Para orquestar los contenedores y autoescalarlos 
+¿Para que sirve GIT? para versionar tu codigo y llevar un control de el mismo 
+¿Escriba 3 comandos de git y descríbalos?  git commit, git push, git pull 
+¿Que función cumple un Job en Jenkins? Es la automatizacion de un Pipeline 

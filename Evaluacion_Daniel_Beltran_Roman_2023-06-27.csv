@@ -1,0 +1,10 @@
+Nombre, Daniel Beltran Roman
+¿Que es DevOps?, Metodologia de trabajo que integra skills del area de Operaciones y Desarrollo
+¿Que es CI/CD?, Es Continuos Integration - Continuos Deployment
+¿Cuál es el uso de Shell Scripting?, Creacion de programas interpretados para hacer tareas concretas
+¿Qué uso tiene Docker?, manejador de Contenedores para compartir aplicaciones
+¿Qué es un contenedor?, Es una aplicacion empaquetada de modo que se puede correr en diferentes ambientes
+¿Para qué sirve Kubernetes?, Es un orquestador de contenedores, se usa para trabajar con Docker
+¿Para que sirve GIT?, Es un manejador de Control de versiones de codigo
+¿Escriba 3 comandos de git y descríbalos?, clone - para clonar un repo, push - para subir cambiar al repo, commit - para guardar los cambios
+¿Que función cumple un Job en Jenkins?, Es la ejecucion de una tarea por lo general dividida en pipelines
