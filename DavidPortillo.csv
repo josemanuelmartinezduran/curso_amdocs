@@ -1,0 +1,21 @@
+Nombre
+¿Que es DevOps?
+Es un area que se encarga de operaciones de soporte a desarrollo como versionamiento
+¿Que es CI/CD?
+¯\_(0_0)_/¯
+¿Cuál es el uso de Shell Scripting?
+Auomatizacion de procesos
+¿Qué uso tiene Docker?
+Creacion e instalacion de ambientes prehechos que pueden servir para desarrollar y probar aplicaciones
+¿Qué es un contenedor?
+Es la base donde corren los ambientes prehechos hechos en docker
+¿Para qué sirve Kubernetes?
+Es un tipo de docker
+¿Para que sirve GIT?
+Versionamiento de codigo
+¿Escriba 3 comandos de git y descríbalos?
+clone - clonar un repositorio
+commit - guardar los cambios
+push - mandar los cambios al repositorio
+¿Que función cumple un Job en Jenkins?
+Automatizacion de un proceso
