@@ -1,0 +1,25 @@
+Nombre
+¿Que es DevOps?
+ Es el area encargada de llevar a cabo las tareas pertinentes para la liberacion del
+ producto de software. Hoy dia, se basa en la metodologia CI/CD.
+¿Que es CI/CD?
+ Es una metodologia enfocada a la automatizacion del ciclo de desarrollo de software, 
+ desde la implementacion hasta la liberacion del mismo.
+¿Cuál es el uso de Shell Scripting?
+ Siendo interpretes, apoyan la ejecucion de tareas sobre las plataformas en las que
+ se ejecutan, usualmente ambientes de servidores.
+¿Qué uso tiene Docker?
+ Es un contenedor de aplicaciones, es parecido a una maquina virtual con otras 
+ capacidades. Un uso es configurar ambientes de desarrollo, los cuales, luego son 
+ compartidos a los equipos de desarrollo.
+¿Qué es un contenedor?
+ Es una aplicacion parecido a una maquina virtual.
+¿Para qué sirve Kubernetes?
+ Es una contenedor	
+¿Para que sirve GIT?
+ Es un sistema de gestion de versiones 
+¿Escriba 3 comandos de git y descríbalos?
+ git add, git commit, git push
+¿Que función cumple un Job en Jenkins?
+ es una tarea que se ejecuta en automatico cuando se cumplen los criterios de 
+que activan su ejecucion
