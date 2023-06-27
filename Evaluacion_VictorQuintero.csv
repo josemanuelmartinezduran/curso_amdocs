@@ -7,9 +7,18 @@ el software (Dev) y los de cuidar la correcta operación del mismo (Ops)
 CI - Continuous Integration 
 CD - Continous Delivery
 ¿Cuál es el uso de Shell Scripting?
+Se trata de un lenguaje interpretado que se usa en Linux
 ¿Qué uso tiene Docker?
+Es un runtime para ejecutar contenedores
 ¿Qué es un contenedor?
+Es una virtualización ligera que permite ejecutar sistema operativo, programas y servicios dentro de él
 ¿Para qué sirve Kubernetes?
+Es un orquestador de contenedores, que permite ejecutar varios contenedores a la vez
 ¿Para que sirve GIT?
+Es un sistema de controlador de versiones y sirve mayormente para controlar el código fuente de programas
 ¿Escriba 3 comandos de git y descríbalos?
+git init - Inicializa una carpeta en git
+git add  - Agrega un archivo al control de versiones 
+git push - Realiza un push de los cambios al repositorio remoto
 ¿Que función cumple un Job en Jenkins?
+Ejecutar los pasos programados en el script de Jenkins.
